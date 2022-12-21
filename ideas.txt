@@ -1,0 +1,54 @@
+Pausenmenü-Texte
+
+Die Verbalisierung fängt immer mit "ein" an.
+Boolean spricht man eigentlich "booleen" aus. Sage das im Unterricht und du erhälst zwei Plusse.
+Auf dem Schulgelände kannst du heilige Relikte finden. Z.B. Rockstar's heilige Bindenwärmer.
+Tipp: Im Mathekapitel musst du deine Behauptungen beweisen können. Dies gilt auch im Kampf!
+Tipp: Es ist kein Fehler wenn du dich 6 Mal bei Moodle anmelden musst. Dies ist zu erwarten.
+Streiche nicht im Matheunterricht, dies führt dazu dass du einen Blutungs-debuff bekommst!
+Komme den grünen Wolken um Mandrakula nicht zu nahe! Wenn du zu lange darin stehst wirst du vergiftet.
+Esse im Matheunterricht Melonen, um ein LP/HP Upgrade zu bekommen!
+Tipp: Grüße deine Mitschüler mit "SUIII" um SP(Sympathie Punkte, für diesen Schüler) zu erhalten.
+Wenn Mandrakula dich zum nachdenken auffordert, folge der Anweisung. Wenn du dich dem widersetzt, verlierst du EP
+Beschütze deinen Laptop vor Merlin, dem Magier. Er kann sonst deine Daten verkaufen.
+Tipp: AOE-Spells werden in diesem Spiel auch "Broadcastangriffe" genannt.
+Tipp: Normale Spells werden in diesem Spiel auch "Hackingangriffe" genannt.
+Mit dem Broadcastangriff "LEUTE!!!" kann Mandrakula dich lähmen.
+Bekomme die Stufe "Mandalka-Liebling" um den Darkmode freizuschalten.
+Mit traceroute kannst du einen Angreifer verfolgen.
+Mit ping kannst du mit anderen Leuten kommunizieren.
+Fülle den Rockstar-Deluxe im Schulheizsystem nach, um reputation zu bekommen.
+Setze den Broadcastangriff "Deine Mutter!" nur im Notfall ein, da er viel Schaden macht, aber alle Mitschüler die der Klasse Bombenleger verlieren SP.
+Wenn du eine Diskussion gegen Kreth gewinnst, bekommst du reputation, und viele EP-Booster(x10).
+Wenn Wolter den Broadcastangriff "Frauen-Flexen" einsetzt, bekommen alle in der Klasse Schaden, außer sie haben die Eigenschaften "Schwul", "Bi" oder "Freundin". Schüler mit der Eigenschaft "toxische Beziehung" bekommen doppelten Schaden.
+Wenn Frau Hasemann den Broadcastangriff "qed" einsetzt, kriegen alle Schüler in der Klasse den Verwirrungs-debuff.
+Setze "Nachdenken" ein, um einen neuen Broadcastangriff, oder Hackingangriff, zu lernen.
+Nur Charaktere mit der Klasse Bombenleger, haben den Start-Broadcastangriff "Ein Frage". Dieser Broadcastangriff führt zu dem debuff "Enttäuschung" bei allen anderen Mitschülern.
+Behaupte das Tiere nicht denken können, um Mitschüler mit der Eigenschaft "Veganer" aufzuregen (Senkt SP)
+Mitschüler mit der Eigenschaft "Guter Christ" können nicht an Bosskämpfen teilnehmen
+Mitschüler mit der Eigenschaft "Nur Fleisch" können auch nur Fleisch essen. Dabei singen sie "Ich ess' Fleisch, nur noch Fleisch, niemals Gemüse"
+Wenn Frau Matthias schreit, dann ist die ganze Klasse für 3 Minuten gelähmt. Schüler mit der Eigenschaft "Temperament" bekommen dadurch den "Aggression"-Buff und bekommen einen Angriffs-Bonus
+Alt-F4 ist eine gefährliche Tastenkombination! Mache das Zielen-Tutorial um diese freizuschalten
+
+
+Stats:
+EP - Erfahrungspunkte
+SP - Sympathiepunkte - Wie beliebt man bei einem Schüler ist
+
+Eigenschaften:
+Religion: "Islam", "Christentum", "Rationalismus", "Aluhut" - Kann das erste mal im Religionsunterricht ausgewählt werden
+Sexualitäten: "Schwul", "Bi", "Langweilig", "Gar nichts"
+Beziehung: "Freund", "Freundin", "toxische Beziehung", "Fuckboy"
+Ernährung: "Nur Fleisch", "Normal", "Vegetarier", "Veganer"
+Intelligenz: "Pelikan", "Normal", "Guter Christ"
+Gefühlslage: "Temperament", "Traurig", "Hochmut"
+
+
+DLC:
+Die Geschichte des Rockstar-Deluxe
+
+
+
+Idee:
+Moodle wird gecrashed - Belohnung: IntelliJ-Portable, mit hardcoded Whitemode, 1% drop: Firefox
+
